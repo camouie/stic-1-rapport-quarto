@@ -1,5 +1,5 @@
 ---
-title: "Rapport exercice 1 de STIC I"
+title: "Rapport exercice 1 de STIC I - Camille Pellaton"
 subtitle: "Document d'accompagnement des activités sur l'identité digitale"
 lang: fr
 date: last-modified
@@ -43,7 +43,7 @@ Concernant la page travaux, j'ai surtout porté mon attention sur la palette de 
 
 ## Production
 
-Pour la création de ma page personnelle, j'ai commencé par réaliser un sketch papier du layout que je souhaitais. Pour m'inspirer pour la création des différentes sections, j'ai consulté les pages personnelles créées par la volée Concordia. Comme cela faisait longtemps que je n'avais plus créé de page web sans utiliser de Framework, j'ai décidé de le faire ici.
+Pour la création de ma page personnelle, j'ai commencé par réaliser un sketch papier du layout que je souhaitais. Pour m'inspirer pour la création des différentes sections, j'ai consulté les pages personnelles créées par la volée Concordia. Comme cela faisait longtemps que je n'avais plus créé de page web sans utiliser de Framework, j'ai décidé de le faire ici. Le HTML et le CSS ont été validés.
 
 Ma page personnelle sur le wiki est très simple pour l'instant. Je ne voulais pas trop de redondance entre les différentes pages créées dans cet exercice, alors j'ai mis des liens lorsque cela était possible.
 
@@ -64,3 +64,7 @@ Les objectifs me semblent atteints. Toutefois, lors d'une prochaine itération, 
 -   [Coloors](https://coolors.co/) (palettes de couleur)
 
 -   [Fontawesome](https://fontawesome.com/icons) (icons réseaux sociaux)
+
+-   [svgrepo](https://www.svgrepo.com/svg/2844/binary-code-numbers-on-monitor-screen) (image wiki)
+
+-   Validation [HTML](https://validator.w3.org/) et [CSS](https://jigsaw.w3.org/css-validator/#validate_by_uri+with_options)
