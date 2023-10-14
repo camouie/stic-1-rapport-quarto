@@ -39,15 +39,15 @@ L'objectif des différentes tâches réalisées est de mettre à jour et de soig
 
 J'ai voulu faire un design minimaliste pour ma page personnelle et la page des travaux. Concernant ma page personnelle, j'ai porté une attention particulière aux polices utilisées (Google Fonts) pour le logo et le texte. Afin d'ajouter une touche de convivialité, j'ai utilisé des emojis dans le message d'accueil.
 
-Concernant la page travaux, j'ai surtout porté mon attention sur la palette de couleur et, pour plus de lisibilié, j'ai démarqué le contenu d'un exercice par l'utilisation d'une "card".
+Concernant la page travaux, j'ai surtout porté mon attention sur la palette de couleur et, pour plus de lisibilité, j'ai démarqué le contenu d'un exercice par l'utilisation d'une "card".
 
 ## Production
 
-Pour la création de ma page personnelle, j'ai commencé par réaliser un sketch papier du layout que je souhaitais. Pour m'inspirer pour la création des différentes sections, j'ai consulté les pages personnelles créées par la volée Concordia. Comme cela faisait longtemps que je n'avais plus créé de page web sans utiliser de Framework, j'ai décidé de le faire ici. Le HTML et le CSS ont été validés.
+Pour la création de ma page personnelle, j'ai commencé par réaliser un sketch papier du layout que je souhaitais. Pour m'inspirer pour la création des différentes sections, j'ai consulté les pages personnelles créées par la volée Concordia. Comme cela faisait longtemps que je n'avais plus créé de page web sans utiliser de Framework, j'ai décidé de le faire ici. Le [HTML](images/validation_pageperso_html.png) et le CSS (visible dans le footer) ont été validés.
 
 Ma page personnelle sur le wiki est très simple pour l'instant. Je ne voulais pas trop de redondance entre les différentes pages créées dans cet exercice, alors j'ai mis des liens lorsque cela était possible.
 
-Pour mes différents comptes sociaux, j'ai contrôlé et mis à jour mes données personnelles, mes domaines d'intérets et les mots-clés utilisés, j'ai également vérifié le contenu public (Github). J'ai choisi des photos différentes pour ces deux comptes au vu de leur portée.
+Pour mes différents comptes sociaux, j'ai contrôlé et mis à jour mes données personnelles, mes domaines d'intérêts et les mots-clés utilisés, j'ai également vérifié le contenu public (GitHub). J'ai choisi des photos différentes pour ces deux comptes au vu de leur portée.
 
 ## Auto-évaluation
 
@@ -67,4 +67,4 @@ Les objectifs me semblent atteints. Toutefois, lors d'une prochaine itération, 
 
 -   [svgrepo](https://www.svgrepo.com/svg/2844/binary-code-numbers-on-monitor-screen) (image wiki)
 
--   Validation [HTML](https://validator.w3.org/) et [CSS](https://jigsaw.w3.org/css-validator/#validate_by_uri+with_options)
+-   Validation W3C [HTML](https://validator.w3.org/) et [CSS](https://jigsaw.w3.org/css-validator/#validate_by_uri+with_options)
